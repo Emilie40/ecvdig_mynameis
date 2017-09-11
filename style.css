@@ -5,3 +5,13 @@
 .img-container img {
     width: 75%;
 }
+
+nav li{
+	list-style-type:none; 
+	float: left;
+	padding: 0% 2%;
+}
+
+nav li{
+	font-size: 2em;
+}
